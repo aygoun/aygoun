@@ -20,6 +20,11 @@ Please, don't hesitate to contact me if you have any questions!
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 
+<br />
+
+---
+
+![Aygoun's GitHub stats](https://github-readme-stats.vercel.app/api?username=aygoun&theme=swift&hide=stars,prs,issues,contribs)
 
 [linkedin]: https://www.linkedin.com/in/armand-blin-1395081b6/
 [discord]: https://discordapp.com/users/ablin#8875
