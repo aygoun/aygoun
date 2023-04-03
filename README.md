@@ -1,6 +1,6 @@
 ## Hi there, I'm Armand Blin 👋 
 
-##### 💻 _I'm a student at EPITA Paris (in Computer Science engineering)_ 
+##### 💻 I'm a student at EPITA Paris (in Computer Science engineering)
 
 ### Connect with me:
 - [<img align="left" alt="armand blin | Linkedin" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
