@@ -13,18 +13,16 @@ jobs:
     steps:
       - uses: athul/waka-readme@master
         with:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           # meta
           API_BASE_URL: https://wakatime.com/api
-          REPOSITORY: athul/athul
           # content
           SHOW_TITLE: true
           SECTION_NAME: waka
-          BLOCKS: ->
-          CODE_LANG: all_time 
+          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
+          CODE_LANG: last_7_days
           TIME_RANGE: true
-          LANG_COUNT: 10
+          LANG_COUNT: 1
           SHOW_TIME: true
           SHOW_TOTAL: true
           SHOW_MASKED_TIME: false
