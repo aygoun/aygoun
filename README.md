@@ -11,6 +11,15 @@ Don't hesitate to contact me if you have any questions!
 
 ---
 <!--START_SECTION:waka-->
+
+```last_7_days
+From: 18 July 2023 - To: 25 July 2023
+
+Total Time: 10 hrs 57 mins
+
+Groovy          2 hrs 50 mins   ⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   25.38 %
+```
+
 <!--END_SECTION:waka-->
 ---
 ![Aygoun's GitHub stats](https://github-readme-stats.vercel.app/api?username=aygoun&theme=swift&hide=stars,prs,issues,contribs)
