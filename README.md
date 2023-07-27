@@ -17,17 +17,16 @@ From: 19 July 2023 - To: 26 July 2023
 
 Total Time: 7 hrs 42 mins
 
-JavaScript      2 hrs 13 mins   >>>>>>>==================   28.81 %
-JSON            2 hrs 8 mins    >>>>>>>==================   27.81 %
-Java            1 hr 10 mins    >>>>=====================   15.14 %
-Groovy          1 hr 9 mins     >>>>=====================   15.01 %
-Objective-C     36 mins         >>=======================   07.99 %
+JavaScript      2 hrs 13 mins   ⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   28.81 %
+JSON            2 hrs 8 mins    ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   27.81 %
+Java            1 hr 10 mins    ⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.14 %
+Groovy          1 hr 9 mins     ⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.01 %
+Objective-C     36 mins         ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.99 %
 ```
 
 <!--END_SECTION:waka-->
 ---
 ![Aygoun's GitHub stats](https://github-readme-stats.vercel.app/api?username=aygoun&theme=swift&hide=stars,prs,issues,contribs)
 
-[linkedin]: https://www.linkedin.com/in/armand-blin-1395081b6/
-[discord]: https://discordapp.com/users/ablin#8875
-[webdevplaylist]: https://www.linkedin.com/in/armand-blin-1395081b6/
+[linkedin]: https://www.linkedin.com/in/armandblin/
+[discord]: https://discordapp.com/users/armandb
