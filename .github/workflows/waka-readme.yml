@@ -22,7 +22,7 @@ jobs:
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
           CODE_LANG: last_7_days
           TIME_RANGE: true
-          LANG_COUNT: 1
+          LANG_COUNT: 5
           SHOW_TIME: true
           SHOW_TOTAL: true
           SHOW_MASKED_TIME: false
