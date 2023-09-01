@@ -13,12 +13,11 @@ Don't hesitate to contact me if you have any questions!
 <!--START_SECTION:waka-->
 
 ```last_7_days
-From: 22 August 2023 - To: 29 August 2023
+From: 23 August 2023 - To: 30 August 2023
 
-Total Time: 1 hr 24 mins
+Total Time: 0 secs
 
-JavaScript   54 mins         ================---------   63.65 %
-CSS          30 mins         =========----------------   36.35 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
