@@ -13,7 +13,7 @@ Don't hesitate to contact me if you have any questions!
 <!--START_SECTION:waka-->
 
 ```last_7_days
-From: 24 August 2023 - To: 31 August 2023
+From: 26 August 2023 - To: 02 September 2023
 
 Total Time: 4 mins
 
