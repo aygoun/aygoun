@@ -13,14 +13,14 @@ Don't hesitate to contact me if you have any questions!
 <!--START_SECTION:waka-->
 
 ```last_7_days
-From: 17 September 2023 - To: 24 September 2023
+From: 18 September 2023 - To: 25 September 2023
 
-Total Time: 9 hrs 22 mins
+Total Time: 8 hrs 28 mins
 
-JavaScript   6 hrs 37 mins   ==================-------   70.71 %
-CSS          2 hrs 41 mins   =======------------------   28.73 %
-Markdown     2 mins          -------------------------   00.39 %
-JSON         0 secs          -------------------------   00.08 %
+JavaScript   5 hrs 56 mins   =================--------   69.95 %
+CSS          2 hrs 29 mins   =======------------------   29.45 %
+Markdown     2 mins          -------------------------   00.44 %
+JSON         0 secs          -------------------------   00.09 %
 HTML         0 secs          -------------------------   00.02 %
 ```
 
