@@ -13,12 +13,12 @@ Don't hesitate to contact me if you have any questions!
 <!--START_SECTION:waka-->
 
 ```last_7_days
-From: 11 October 2023 - To: 18 October 2023
+From: 12 October 2023 - To: 19 October 2023
 
-Total Time: 4 hrs 25 mins
+Total Time: 4 hrs 1 min
 
-C      2 hrs 55 mins   ================---------   65.97 %
-Bash   1 hr 30 mins    =========----------------   34.03 %
+C      2 hrs 31 mins   ================---------   62.55 %
+Bash   1 hr 30 mins    =========----------------   37.45 %
 ```
 
 <!--END_SECTION:waka-->
