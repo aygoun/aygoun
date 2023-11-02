@@ -13,15 +13,13 @@ Don't hesitate to contact me if you have any questions!
 <!--START_SECTION:waka-->
 
 ```last_7_days
-From: 23 October 2023 - To: 30 October 2023
+From: 24 October 2023 - To: 31 October 2023
 
-Total Time: 12 mins
+Total Time: 1 hr 22 mins
 
-TypeScript   12 mins         ========================-   97.65 %
-JavaScript   0 secs          -------------------------   00.76 %
-JSON         0 secs          -------------------------   00.69 %
-TSConfig     0 secs          -------------------------   00.32 %
-Other        0 secs          -------------------------   00.31 %
+C          1 hr 19 mins    ========================-   96.25 %
+Makefile   2 mins          =------------------------   03.36 %
+Other      0 secs          -------------------------   00.29 %
 ```
 
 <!--END_SECTION:waka-->
