@@ -13,15 +13,15 @@ Don't hesitate to contact me if you have any questions!
 <!--START_SECTION:waka-->
 
 ```last_7_days
-From: 25 October 2023 - To: 01 November 2023
+From: 26 October 2023 - To: 02 November 2023
 
-Total Time: 5 hrs 5 mins
+Total Time: 9 hrs 4 mins
 
-C            4 hrs 58 mins   ========================-   97.44 %
-Makefile     3 mins          -------------------------   01.14 %
-Bash         2 mins          -------------------------   00.70 %
-Git Config   1 min           -------------------------   00.61 %
-Other        0 secs          -------------------------   00.08 %
+C            8 hrs 30 mins   =======================--   93.70 %
+PHP          14 mins         =------------------------   02.66 %
+HTML         11 mins         =------------------------   02.13 %
+Makefile     3 mins          -------------------------   00.71 %
+Bash         2 mins          -------------------------   00.39 %
 ```
 
 <!--END_SECTION:waka-->
