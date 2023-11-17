@@ -13,15 +13,15 @@ Don't hesitate to contact me if you have any questions!
 <!--START_SECTION:waka-->
 
 ```last_7_days
-From: 07 November 2023 - To: 14 November 2023
+From: 08 November 2023 - To: 15 November 2023
 
-Total Time: 6 hrs 36 mins
+Total Time: 2 hrs 58 mins
 
-C                          3 hrs 40 mins   ==============-----------   55.23 %
-MDX                        2 hrs 5 mins    ========-----------------   31.51 %
-Makefile                   24 mins         ==-----------------------   06.26 %
-JSON                       14 mins         =------------------------   03.67 %
-SSH Config                 7 mins          -------------------------   01.89 %
+MDX                        2 hrs 5 mins    ==================-------   70.29 %
+C                          26 mins         ====---------------------   15.07 %
+JSON                       14 mins         ==-----------------------   08.18 %
+SSH Config                 7 mins          =------------------------   04.23 %
+JavaScript                 2 mins          -------------------------   01.20 %
 ```
 
 <!--END_SECTION:waka-->
