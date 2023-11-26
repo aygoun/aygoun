@@ -13,15 +13,15 @@ Don't hesitate to contact me if you have any questions!
 <!--START_SECTION:waka-->
 
 ```last_7_days
-From: 16 November 2023 - To: 23 November 2023
+From: 17 November 2023 - To: 24 November 2023
 
-Total Time: 1 hr 51 mins
+Total Time: 47 mins
 
-Python       47 mins         ==========---------------   41.94 %
-XML          21 mins         =====--------------------   18.79 %
-JavaScript   14 mins         ===----------------------   12.66 %
-MDX          11 mins         ===----------------------   10.10 %
-Markdown     8 mins          ==-----------------------   07.54 %
+XML          21 mins         ===========--------------   44.76 %
+JavaScript   14 mins         ========-----------------   30.17 %
+MDX          11 mins         ======-------------------   24.06 %
+JSON         0 secs          -------------------------   00.74 %
+CocoaPods    0 secs          -------------------------   00.27 %
 ```
 
 <!--END_SECTION:waka-->
