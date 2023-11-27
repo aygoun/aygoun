@@ -13,7 +13,7 @@ Don't hesitate to contact me if you have any questions!
 <!--START_SECTION:waka-->
 
 ```last_7_days
-From: 17 November 2023 - To: 24 November 2023
+From: 18 November 2023 - To: 25 November 2023
 
 Total Time: 47 mins
 
