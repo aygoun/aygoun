@@ -13,15 +13,15 @@ Don't hesitate to contact me if you have any questions!
 <!--START_SECTION:waka-->
 
 ```last_7_days
-From: 10 December 2023 - To: 17 December 2023
+From: 11 December 2023 - To: 18 December 2023
 
-Total Time: 15 hrs
+Total Time: 11 hrs 34 mins
 
-TypeScript    11 hrs 15 mins  ===================------   75.07 %
-Python        2 hrs 3 mins    ===----------------------   13.68 %
-Haskell       32 mins         =------------------------   03.58 %
-Common Lisp   28 mins         =------------------------   03.12 %
-MDX           16 mins         -------------------------   01.86 %
+TypeScript    8 hrs 6 mins    ==================-------   70.00 %
+Python        1 hr 57 mins    ====---------------------   16.97 %
+Haskell       32 mins         =------------------------   04.64 %
+Common Lisp   28 mins         =------------------------   04.04 %
+MDX           16 mins         =------------------------   02.41 %
 ```
 
 <!--END_SECTION:waka-->
