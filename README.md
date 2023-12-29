@@ -13,15 +13,15 @@ Don't hesitate to contact me if you have any questions!
 <!--START_SECTION:waka-->
 
 ```last_7_days
-From: 19 December 2023 - To: 26 December 2023
+From: 20 December 2023 - To: 27 December 2023
 
-Total Time: 1 hr 52 mins
+Total Time: 1 hr 2 mins
 
-MDX          1 hr 17 mins    =================--------   69.18 %
-Python       25 mins         ======-------------------   22.30 %
-TypeScript   8 mins          ==-----------------------   07.45 %
-JSON         0 secs          -------------------------   00.63 %
-JavaScript   0 secs          -------------------------   00.24 %
+MDX          53 mins         =====================----   85.73 %
+TypeScript   8 mins          ===----------------------   13.47 %
+JavaScript   0 secs          -------------------------   00.44 %
+CSS          0 secs          -------------------------   00.30 %
+Git Config   0 secs          -------------------------   00.06 %
 ```
 
 <!--END_SECTION:waka-->
