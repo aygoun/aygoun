@@ -13,11 +13,12 @@ Don't hesitate to contact me if you have any questions!
 <!--START_SECTION:waka-->
 
 ```last_7_days
-From: 25 December 2023 - To: 01 January 2024
+From: 26 December 2023 - To: 02 January 2024
 
-Total Time: 0 secs
+Total Time: 2 hrs 35 mins
 
-No activity tracked
+C            2 hrs 32 mins   =======================--   93.77 %
+Other        7 mins          =------------------------   04.75 %
 ```
 
 <!--END_SECTION:waka-->
