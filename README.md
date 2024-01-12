@@ -13,15 +13,15 @@ Don't hesitate to contact me if you have any questions!
 <!--START_SECTION:waka-->
 
 ```last_7_days
-From: 02 January 2024 - To: 09 January 2024
+From: 03 January 2024 - To: 10 January 2024
 
-Total Time: 5 hrs 26 mins
+Total Time: 8 hrs 28 mins
 
-TypeScript   3 hrs 8 mins    ==============-----------   57.72 %
-C            1 hr 9 mins     =====--------------------   21.13 %
-Assembly     30 mins         ==-----------------------   09.30 %
-Markdown     16 mins         =------------------------   04.99 %
-CSS          8 mins          =------------------------   02.60 %
+TypeScript   3 hrs 8 mins    =========----------------   35.01 %
+C            2 hrs 45 mins   ========-----------------   30.74 %
+Makefile     1 hr 2 mins     ===----------------------   11.50 %
+Assembly     30 mins         =------------------------   05.64 %
+Other        30 mins         =------------------------   05.64 %
 ```
 
 <!--END_SECTION:waka-->
