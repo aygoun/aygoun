@@ -13,15 +13,15 @@ Don't hesitate to contact me if you have any questions!
 <!--START_SECTION:waka-->
 
 ```last_7_days
-From: 14 January 2024 - To: 21 January 2024
+From: 15 January 2024 - To: 22 January 2024
 
-Total Time: 4 hrs 1 min
+Total Time: 3 hrs 28 mins
 
-C             1 hr 48 mins    ===========--------------   44.32 %
-Haskell       1 hr 18 mins    ========-----------------   32.04 %
-Common Lisp   22 mins         ==-----------------------   09.03 %
-Git Config    20 mins         ==-----------------------   08.18 %
-Makefile      10 mins         =------------------------   04.41 %
+C             1 hr 48 mins    =============------------   51.59 %
+Haskell       1 hr 15 mins    =========----------------   35.93 %
+Common Lisp   22 mins         ===----------------------   10.51 %
+Git Config    1 min           -------------------------   00.83 %
+Other         1 min           -------------------------   00.61 %
 ```
 
 <!--END_SECTION:waka-->
