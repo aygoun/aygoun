@@ -13,14 +13,13 @@ Don't hesitate to contact me if you have any questions!
 <!--START_SECTION:waka-->
 
 ```last_7_days
-From: 22 January 2024 - To: 29 January 2024
+From: 23 January 2024 - To: 30 January 2024
 
-Total Time: 6 hrs 37 mins
+Total Time: 5 hrs 2 mins
 
-C          5 hrs 27 mins   ====================-----   78.40 %
-Bash       46 mins         ===----------------------   11.06 %
-Makefile   20 mins         =------------------------   04.97 %
-Other      20 mins         =------------------------   04.81 %
+C          3 hrs 56 mins   ==================-------   73.39 %
+Bash       46 mins         ====---------------------   14.33 %
+Other      20 mins         ==-----------------------   06.24 %
 ```
 
 <!--END_SECTION:waka-->
