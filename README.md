@@ -13,15 +13,15 @@ Don't hesitate to contact me if you have any questions!
 <!--START_SECTION:waka-->
 
 ```last_7_days
-From: 29 January 2024 - To: 05 February 2024
+From: 30 January 2024 - To: 06 February 2024
 
-Total Time: 3 hrs 38 mins
+Total Time: 4 hrs 1 min
 
-TypeScript    1 hr 47 mins    ============-------------   49.14 %
-Common Lisp   57 mins         =======------------------   26.20 %
-Haskell       30 mins         ===----------------------   13.82 %
-CSS           20 mins         ==-----------------------   09.50 %
-JavaScript    1 min           -------------------------   00.84 %
+TypeScript    1 hr 47 mins    ===========--------------   44.44 %
+Common Lisp   57 mins         ======-------------------   23.70 %
+Haskell       30 mins         ===----------------------   12.50 %
+Java          23 mins         ==-----------------------   09.55 %
+CSS           20 mins         ==-----------------------   08.59 %
 ```
 
 <!--END_SECTION:waka-->
