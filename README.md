@@ -13,11 +13,14 @@ Don't hesitate to contact me if you have any questions!
 <!--START_SECTION:waka-->
 
 ```last_7_days
-From: 19 February 2024 - To: 26 February 2024
+From: 20 February 2024 - To: 27 February 2024
 
-Total Time: 0 secs
+Total Time: 44 mins
 
-No activity tracked
+CMake      34 mins         ====================-----   78.58 %
+C++        8 mins          =====--------------------   19.82 %
+Text       0 secs          -------------------------   01.54 %
+Makefile   0 secs          -------------------------   00.05 %
 ```
 
 <!--END_SECTION:waka-->
