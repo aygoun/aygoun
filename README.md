@@ -13,15 +13,15 @@ Don't hesitate to contact me if you have any questions!
 <!--START_SECTION:waka-->
 
 ```last_7_days
-From: 01 March 2024 - To: 08 March 2024
+From: 02 March 2024 - To: 09 March 2024
 
-Total Time: 11 hrs 7 mins
+Total Time: 3 hrs 16 mins
 
-C++          7 hrs 12 mins   ================---------   64.80 %
-Python       2 hrs 3 mins    =====--------------------   18.44 %
-JavaScript   42 mins         ==-----------------------   06.38 %
-CMake        30 mins         =------------------------   04.61 %
-TypeScript   20 mins         =------------------------   03.12 %
+Python       2 hrs 3 mins    ================---------   62.69 %
+JavaScript   42 mins         =====--------------------   21.71 %
+TypeScript   20 mins         ===----------------------   10.62 %
+TSConfig     4 mins          =------------------------   02.37 %
+JSON         3 mins          -------------------------   01.75 %
 ```
 
 <!--END_SECTION:waka-->
