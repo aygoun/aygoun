@@ -13,7 +13,7 @@ Don't hesitate to contact me if you have any questions!
 <!--START_SECTION:waka-->
 
 ```last_7_days
-From: 30 March 2024 - To: 06 April 2024
+From: 01 April 2024 - To: 08 April 2024
 
 Total Time: 7 hrs 55 mins
 
