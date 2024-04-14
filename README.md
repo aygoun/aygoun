@@ -13,15 +13,15 @@ Don't hesitate to contact me if you have any questions!
 <!--START_SECTION:waka-->
 
 ```last_7_days
-From: 04 April 2024 - To: 11 April 2024
+From: 06 April 2024 - To: 13 April 2024
 
-Total Time: 8 hrs 50 mins
+Total Time: 12 hrs 23 mins
 
-OCaml             3 hrs 11 mins   =========----------------   36.08 %
-YAML              2 hrs 14 mins   ======-------------------   25.27 %
-Python            1 hr 44 mins    =====--------------------   19.79 %
-INI               53 mins         ===----------------------   10.02 %
-XML               30 mins         =------------------------   05.84 %
+YAML              6 hrs 26 mins   =============------------   51.77 %
+Python            2 hrs 40 mins   =====--------------------   21.46 %
+OCaml             1 hr 5 mins     ==-----------------------   08.80 %
+INI               1 hr            ==-----------------------   08.15 %
+XML               34 mins         =------------------------   04.69 %
 ```
 
 <!--END_SECTION:waka-->
