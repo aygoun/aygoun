@@ -13,15 +13,15 @@ Don't hesitate to contact me if you have any questions!
 <!--START_SECTION:waka-->
 
 ```last_7_days
-From: 21 April 2024 - To: 28 April 2024
+From: 22 April 2024 - To: 29 April 2024
 
-Total Time: 34 hrs 8 mins
+Total Time: 45 hrs 44 mins
 
-JavaScript                 16 hrs 26 mins  ============-------------   48.14 %
-TypeScript                 6 hrs 12 mins   =====--------------------   18.18 %
-Python                     4 hrs 56 mins   ====---------------------   14.48 %
-YAML                       2 hrs 41 mins   ==-----------------------   07.88 %
-Terraform                  1 hr 45 mins    =------------------------   05.16 %
+JavaScript                 28 hrs 39 mins  ================---------   62.64 %
+TypeScript                 6 hrs 12 mins   ===----------------------   13.56 %
+Python                     4 hrs 9 mins    ==-----------------------   09.08 %
+YAML                       2 hrs 41 mins   =------------------------   05.89 %
+Terraform                  1 hr 45 mins    =------------------------   03.85 %
 ```
 
 <!--END_SECTION:waka-->
