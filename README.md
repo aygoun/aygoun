@@ -13,15 +13,15 @@ Don't hesitate to contact me if you have any questions!
 <!--START_SECTION:waka-->
 
 ```last_7_days
-From: 25 April 2024 - To: 02 May 2024
+From: 27 April 2024 - To: 04 May 2024
 
-Total Time: 50 hrs 41 mins
+Total Time: 51 hrs 40 mins
 
-JavaScript                 43 hrs 35 mins  =====================----   85.89 %
-Python                     2 hrs 38 mins   =------------------------   05.20 %
-YAML                       1 hr 18 mins    =------------------------   02.58 %
-TypeScript                 56 mins         -------------------------   01.85 %
-Docker                     36 mins         -------------------------   01.20 %
+JavaScript                 46 hrs 31 mins  ======================---   89.94 %
+YAML                       1 hr 19 mins    =------------------------   02.55 %
+Python                     1 hr 17 mins    =------------------------   02.49 %
+Docker                     35 mins         -------------------------   01.16 %
+Text                       30 mins         -------------------------   00.99 %
 ```
 
 <!--END_SECTION:waka-->
