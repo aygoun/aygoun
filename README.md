@@ -13,15 +13,15 @@ Don't hesitate to contact me if you have any questions!
 <!--START_SECTION:waka-->
 
 ```last_7_days
-From: 19 May 2024 - To: 26 May 2024
+From: 20 May 2024 - To: 27 May 2024
 
-Total Time: 18 hrs 16 mins
+Total Time: 15 hrs 57 mins
 
-YAML         16 hrs 3 mins   ======================---   87.73 %
-Terraform    1 hr 27 mins    ==-----------------------   07.96 %
-Config       15 mins         -------------------------   01.45 %
-Jinja2       10 mins         -------------------------   01.00 %
-Docker       7 mins          -------------------------   00.70 %
+YAML         14 hrs 1 min    ======================---   87.68 %
+Terraform    1 hr 27 mins    ==-----------------------   09.11 %
+Docker       10 mins         -------------------------   01.05 %
+JSON         7 mins          -------------------------   00.74 %
+Git Config   6 mins          -------------------------   00.69 %
 ```
 
 <!--END_SECTION:waka-->
