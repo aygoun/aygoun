@@ -13,15 +13,15 @@ Don't hesitate to contact me if you have any questions!
 <!--START_SECTION:waka-->
 
 ```last_7_days
-From: 03 June 2024 - To: 10 June 2024
+From: 04 June 2024 - To: 11 June 2024
 
-Total Time: 12 hrs 55 mins
+Total Time: 9 hrs 56 mins
 
-JavaScript    9 hrs 9 mins    ==================-------   70.72 %
-YAML          1 hr 31 mins    ===----------------------   11.73 %
-Bash          44 mins         =------------------------   05.77 %
-Docker        20 mins         =------------------------   02.60 %
-JSON          19 mins         =------------------------   02.54 %
+JavaScript    8 hrs 28 mins   =====================----   85.18 %
+Bash          33 mins         =------------------------   05.67 %
+JSON          19 mins         =------------------------   03.30 %
+TypeScript    9 mins          -------------------------   01.56 %
+Docker        8 mins          -------------------------   01.43 %
 ```
 
 <!--END_SECTION:waka-->
