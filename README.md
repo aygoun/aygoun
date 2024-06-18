@@ -13,12 +13,11 @@ Don't hesitate to contact me if you have any questions!
 <!--START_SECTION:waka-->
 
 ```last_7_days
-From: 08 June 2024 - To: 15 June 2024
+From: 10 June 2024 - To: 17 June 2024
 
-Total Time: 6 hrs 28 mins
+Total Time: 6 hrs 19 mins
 
-JavaScript    6 hrs 18 mins   ========================-   97.36 %
-Docker        8 mins          =------------------------   02.21 %
+JavaScript    6 hrs 18 mins   =========================   99.55 %
 TypeScript    1 min           -------------------------   00.30 %
 Image (svg)   0 secs          -------------------------   00.08 %
 JSON          0 secs          -------------------------   00.06 %
