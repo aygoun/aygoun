@@ -13,14 +13,13 @@ Don't hesitate to contact me if you have any questions!
 <!--START_SECTION:waka-->
 
 ```last_7_days
-From: 02 August 2024 - To: 09 August 2024
+From: 03 August 2024 - To: 10 August 2024
 
-Total Time: 3 hrs 28 mins
+Total Time: 1 hr 46 mins
 
-TypeScript   3 hrs 12 mins   =======================--   92.10 %
-YAML         8 mins          =------------------------   04.23 %
-JSON         6 mins          =------------------------   03.25 %
-Bash         0 secs          -------------------------   00.42 %
+TypeScript   1 hr 32 mins    ======================---   86.95 %
+YAML         8 mins          ==-----------------------   08.28 %
+JSON         5 mins          =------------------------   04.77 %
 ```
 
 <!--END_SECTION:waka-->
