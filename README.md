@@ -13,7 +13,7 @@ Don't hesitate to contact me if you have any questions!
 <!--START_SECTION:waka-->
 
 ```last_7_days
-From: 14 August 2024 - To: 21 August 2024
+From: 15 August 2024 - To: 22 August 2024
 
 Total Time: 6 hrs 42 mins
 
