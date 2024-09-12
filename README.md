@@ -13,12 +13,11 @@ Don't hesitate to contact me if you have any questions!
 <!--START_SECTION:waka-->
 
 ```last_7_days
-From: 03 September 2024 - To: 10 September 2024
+From: 04 September 2024 - To: 11 September 2024
 
-Total Time: 18 mins
+Total Time: 0 secs
 
-Bash   12 mins         =================--------   67.82 %
-JSON   6 mins          ========-----------------   32.18 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
