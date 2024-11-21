@@ -13,12 +13,12 @@ Don't hesitate to contact me if you have any questions!
 <!--START_SECTION:waka-->
 
 ```last_7_days
-From: 11 November 2024 - To: 18 November 2024
+From: 12 November 2024 - To: 19 November 2024
 
-Total Time: 44 mins
+Total Time: 26 mins
 
-Python   43 mins         ========================-   95.93 %
-CSV      1 min           =------------------------   04.07 %
+Python   24 mins         ========================-   95.22 %
+CSV      1 min           =------------------------   04.78 %
 ```
 
 <!--END_SECTION:waka-->
