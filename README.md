@@ -13,11 +13,12 @@ Don't hesitate to contact me if you have any questions!
 <!--START_SECTION:waka-->
 
 ```last_7_days
-From: 03 January 2025 - To: 10 January 2025
+From: 04 January 2025 - To: 11 January 2025
 
-Total Time: 0 secs
+Total Time: 59 mins
 
-No activity tracked
+YAML         58 mins         =========================   98.70 %
+JavaScript   0 secs          -------------------------   01.30 %
 ```
 
 <!--END_SECTION:waka-->
