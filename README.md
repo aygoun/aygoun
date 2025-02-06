@@ -13,11 +13,13 @@ Don't hesitate to contact me if you have any questions!
 <!--START_SECTION:waka-->
 
 ```last_7_days
-From: 27 January 2025 - To: 03 February 2025
+From: 28 January 2025 - To: 04 February 2025
 
-Total Time: 0 secs
+Total Time: 6 hrs 33 mins
 
-No activity tracked
+TypeScript   6 hrs 27 mins   =========================   98.51 %
+JSON         5 mins          -------------------------   01.32 %
+TSConfig     0 secs          -------------------------   00.18 %
 ```
 
 <!--END_SECTION:waka-->
