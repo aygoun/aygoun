@@ -13,15 +13,15 @@ Don't hesitate to contact me if you have any questions!
 <!--START_SECTION:waka-->
 
 ```last_7_days
-From: 05 February 2025 - To: 12 February 2025
+From: 06 February 2025 - To: 13 February 2025
 
-Total Time: 63 hrs 46 mins
+Total Time: 67 hrs 57 mins
 
-TypeScript   56 hrs 53 mins  ======================---   88.78 %
-JavaScript   4 hrs 48 mins   ==-----------------------   07.50 %
-JSON         1 hr            -------------------------   01.57 %
-YAML         58 mins         -------------------------   01.53 %
-Other        18 mins         -------------------------   00.48 %
+TypeScript   63 hrs 36 mins  =======================--   93.27 %
+JavaScript   3 hrs 10 mins   =------------------------   04.65 %
+JSON         49 mins         -------------------------   01.20 %
+YAML         17 mins         -------------------------   00.42 %
+Other        14 mins         -------------------------   00.35 %
 ```
 
 <!--END_SECTION:waka-->
