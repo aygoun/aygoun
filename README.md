@@ -13,14 +13,14 @@ Don't hesitate to contact me if you have any questions!
 <!--START_SECTION:waka-->
 
 ```last_7_days
-From: 08 February 2025 - To: 15 February 2025
+From: 09 February 2025 - To: 16 February 2025
 
-Total Time: 57 hrs 38 mins
+Total Time: 43 hrs 50 mins
 
-TypeScript   55 hrs 54 mins  ========================-   96.62 %
-JavaScript   1 hr 3 mins     -------------------------   01.83 %
-JSON         31 mins         -------------------------   00.90 %
-Other        13 mins         -------------------------   00.40 %
+TypeScript   42 hrs 38 mins  ========================-   96.78 %
+JavaScript   36 mins         -------------------------   01.37 %
+JSON         26 mins         -------------------------   01.01 %
+Other        13 mins         -------------------------   00.51 %
 ```
 
 <!--END_SECTION:waka-->
