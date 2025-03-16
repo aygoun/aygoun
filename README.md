@@ -13,15 +13,15 @@ Don't hesitate to contact me if you have any questions!
 <!--START_SECTION:waka-->
 
 ```last_7_days
-From: 06 March 2025 - To: 13 March 2025
+From: 07 March 2025 - To: 14 March 2025
 
-Total Time: 24 hrs 56 mins
+Total Time: 18 hrs 47 mins
 
-TypeScript                 11 hrs 45 mins  ===========--------------   45.69 %
-C                          2 hrs 57 mins   ===----------------------   11.50 %
-Python                     1 hr 39 mins    ==-----------------------   06.45 %
-Swift                      1 hr 35 mins    ==-----------------------   06.18 %
-JavaScript                 1 hr 35 mins    ==-----------------------   06.17 %
+TypeScript                 6 hrs 54 mins   =========----------------   35.27 %
+C                          2 hrs 57 mins   ====---------------------   15.11 %
+Python                     1 hr 39 mins    ==-----------------------   08.47 %
+Swift                      1 hr 35 mins    ==-----------------------   08.13 %
+Bash                       1 hr 25 mins    ==-----------------------   07.27 %
 ```
 
 <!--END_SECTION:waka-->
