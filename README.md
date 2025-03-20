@@ -13,15 +13,15 @@ Don't hesitate to contact me if you have any questions!
 <!--START_SECTION:waka-->
 
 ```last_7_days
-From: 10 March 2025 - To: 17 March 2025
+From: 11 March 2025 - To: 18 March 2025
 
-Total Time: 13 hrs 34 mins
+Total Time: 10 hrs 48 mins
 
-TypeScript   5 hrs 41 mins   ==========---------------   41.84 %
-C            2 hrs 57 mins   =====--------------------   21.73 %
-Python       2 hrs 29 mins   =====--------------------   18.32 %
-Cypher       38 mins         =------------------------   04.70 %
-Makefile     26 mins         =------------------------   03.22 %
+C                          2 hrs 57 mins   =======------------------   27.27 %
+Python                     2 hrs 29 mins   ======-------------------   22.98 %
+YAML                       1 hr 40 mins    ====---------------------   15.44 %
+TypeScript                 1 hr 6 mins     ===----------------------   10.18 %
+Cypher                     1 hr 2 mins     ==-----------------------   09.56 %
 ```
 
 <!--END_SECTION:waka-->
