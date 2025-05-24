@@ -13,15 +13,15 @@ Don't hesitate to contact me if you have any questions!
 <!--START_SECTION:waka-->
 
 ```last_7_days
-From: 14 May 2025 - To: 21 May 2025
+From: 15 May 2025 - To: 22 May 2025
 
-Total Time: 9 hrs 33 mins
+Total Time: 5 hrs 50 mins
 
-Python       4 hrs 45 mins   ============-------------   49.54 %
-Markdown     4 hrs           ==========---------------   41.73 %
-YAML         23 mins         =------------------------   04.17 %
-CSV          19 mins         =------------------------   03.35 %
-Other        2 mins          -------------------------   00.45 %
+Python     3 hrs 1 min     =============------------   51.66 %
+Markdown   2 hrs 17 mins   ==========---------------   39.16 %
+YAML       23 mins         ==-----------------------   06.84 %
+CSV        3 mins          -------------------------   01.01 %
+Makefile   2 mins          -------------------------   00.62 %
 ```
 
 <!--END_SECTION:waka-->
