@@ -13,13 +13,11 @@ Don't hesitate to contact me if you have any questions!
 <!--START_SECTION:waka-->
 
 ```last_7_days
-From: 15 June 2025 - To: 22 June 2025
+From: 16 June 2025 - To: 23 June 2025
 
-Total Time: 2 hrs 26 mins
+Total Time: 1 hr 15 mins
 
-Markdown   1 hr 47 mins    ==================-------   72.89 %
-Python     39 mins         =======------------------   26.80 %
-Other      0 secs          -------------------------   00.32 %
+Markdown   1 hr 15 mins    =========================   100.00 %
 ```
 
 <!--END_SECTION:waka-->
