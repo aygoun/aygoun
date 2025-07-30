@@ -13,7 +13,7 @@ Don't hesitate to contact me if you have any questions!
 <!--START_SECTION:waka-->
 
 ```last_7_days
-From: 20 July 2025 - To: 27 July 2025
+From: 21 July 2025 - To: 28 July 2025
 
 Total Time: 8 mins
 
