@@ -13,15 +13,15 @@ Don't hesitate to contact me if you have any questions!
 <!--START_SECTION:waka-->
 
 ```last_7_days
-From: 27 July 2025 - To: 03 August 2025
+From: 28 July 2025 - To: 04 August 2025
 
-Total Time: 10 hrs 49 mins
+Total Time: 10 hrs 48 mins
 
-TypeScript        4 hrs 24 mins   ==========---------------   40.68 %
+TypeScript        4 hrs 23 mins   ==========---------------   40.59 %
 JSON              2 hrs 2 mins    =====--------------------   18.90 %
-Kotlin            1 hr 29 mins    ===----------------------   13.74 %
-Groovy            40 mins         ==-----------------------   06.29 %
-JavaScript        37 mins         =------------------------   05.82 %
+Kotlin            1 hr 29 mins    ===----------------------   13.78 %
+Groovy            40 mins         ==-----------------------   06.31 %
+JavaScript        37 mins         =------------------------   05.84 %
 ```
 
 <!--END_SECTION:waka-->
