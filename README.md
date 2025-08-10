@@ -13,15 +13,11 @@ Don't hesitate to contact me if you have any questions!
 <!--START_SECTION:waka-->
 
 ```last_7_days
-From: 31 July 2025 - To: 07 August 2025
+From: 01 August 2025 - To: 08 August 2025
 
-Total Time: 2 hrs 13 mins
+Total Time: 0 secs
 
-Kotlin       1 hr 24 mins    ================---------   62.82 %
-TypeScript   33 mins         ======-------------------   25.29 %
-Markdown     9 mins          ==-----------------------   07.14 %
-Groovy       3 mins          =------------------------   02.83 %
-JSON         2 mins          -------------------------   01.92 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
