@@ -13,11 +13,12 @@ Don't hesitate to contact me if you have any questions!
 <!--START_SECTION:waka-->
 
 ```last_7_days
-From: 02 August 2025 - To: 09 August 2025
+From: 03 August 2025 - To: 10 August 2025
 
-Total Time: 0 secs
+Total Time: 1 hr 10 mins
 
-No activity tracked
+Python   1 hr 5 mins     =======================--   92.61 %
+JSON     5 mins          ==-----------------------   07.39 %
 ```
 
 <!--END_SECTION:waka-->
