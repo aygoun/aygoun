@@ -66,8 +66,7 @@ A solo entrepreneurial venture:
 
 ## 📫 Connect with Me
 
-🌐 [LinkedIn](https://www.linkedin.com/in/armandblin/)  
-📧 armand.blin@epita.fr  
+🌐 [LinkedIn](https://www.linkedin.com/in/armandblin/)   
 
 ---
 
