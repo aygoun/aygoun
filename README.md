@@ -1,11 +1,17 @@
 # Hi, I'm Armand 👋  
 
 🎓 M2 student in **Artificial Intelligence (MVA @ ENS)** • **EPITA (SCIA Track)**  
-🔬 Interested in **Deep Learning, Computer Vision, Efficient AI, and Quantitative Research**  
+🔬 Interested in **Deep Learning, Computer Vision**  
 🚀 Currently seeking a **Research Internship in Deep Learning & Computer Vision (April 2026)**  
 🛠️ Currently building a **lightweight Jarvis** on my free time  
 
 ---
+
+## Current Research Project
+
+### 📱 [Lightweight Jarvis](https://github.com/aygoun/light-jarvis)
+- A modern local AI assistant with a clean, service-oriented architecture that implements function calls.
+- The next step is to add an AI model for hand tracking to open up new possibilities.
 
 ## 🔭 Main Projects
 
@@ -58,18 +64,12 @@ A solo entrepreneurial venture:
 
 ## ⚡ Tech Stack
 
-`Python` `PyTorch` `TensorFlow` `Scikit-learn` `Pandas`  
-`TypeScript` `SQL/NoSQL` `Redis` `Kafka`  
-`AWS` `GCP` `CI/CD` `Docker` `K8s`  
+- **AI/ML**: Python, PyTorch, Pandas, Scikit-learn
+- **DevOps/Cloud**: Docker, AWS, GCP, CI/CD
+- **Tools/Others**: C, SQL, Kafka, Git, Unix, TypeScript
 
 ---
 
 ## 📫 Connect with Me
 
 🌐 [LinkedIn](https://www.linkedin.com/in/armandblin/)   
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aygoun&show_icons=true&theme=transparent" height="150"/>
-</p>
