@@ -13,6 +13,9 @@
 - A modern local AI assistant with a clean, service-oriented architecture that implements function calls.
 - The next step is to add an AI model for hand tracking to open up new possibilities.
 
+---
+
+
 ## 🔭 Main Projects
 
 ### 📱 [ThetysLab – Mobile App](https://www.linkedin.com/company/thetys-lab/)  
@@ -21,13 +24,9 @@ Mobile app studio, leveraging data-driven design and scalable architectures.
 - Led development and cloud architecture across **AWS and GCP**  
 - Tech: `TypeScript`, `SQL`, `NoSQL`, `Redis`, `Kafka`, `CI/CD`  
 
----
-
 ### 📊 [Hybrid Recommender System](https://github.com/aygoun/Hybrid-Recommender-System-for-Videos)  
 Implemented a **hybrid recommender** for short videos using the **KuaiRec dataset**  
 - Tech: `Python`, `PyTorch`, `Pandas`  
-
----
 
 ### 💬 [NLP – Business Reviews](https://github.com/aygoun/nlp1-business-reviews)  
 Built supervised ML models to **classify and summarize customer reviews**  
