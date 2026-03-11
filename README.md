@@ -2,21 +2,14 @@
 
 🎓 M2 student in **Artificial Intelligence (MVA @ ENS)** • **EPITA (SCIA Track)**  
 🔬 Interested in **Deep Learning, Computer Vision**  
-🚀 Currently seeking a **Research Internship in Deep Learning & Computer Vision (April 2026)**  
-🛠️ Currently building a **lightweight Jarvis** on my free time  
 
 ---
 
-## Current Research Project
+## 🔭 Main Projects
 
 ### 📱 [Lightweight Jarvis](https://github.com/aygoun/light-jarvis)
 - A modern local AI assistant with a clean, service-oriented architecture that implements function calls.
 - The next step is to add an AI model for hand tracking to open up new possibilities.
-
----
-
-
-## 🔭 Main Projects
 
 ### 📱 [ThetysLab – Mobile App](https://www.linkedin.com/company/thetys-lab/)  
 Mobile app studio, leveraging data-driven design and scalable architectures.  
